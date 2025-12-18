@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Rahul+Patel;AI+%7C+Machine+Learning+%7C+Software+Developer;Building+Real-World+AI+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Rahul+Patel;AI+%7C+Machine+Learning+%7C+Software+Developer;Building+Real-World+AI+Systems+🚀;Best+One+and+Only+One+👑🔥" />
+
 
 </div>
 
